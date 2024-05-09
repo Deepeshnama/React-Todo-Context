@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+ } 
+.navbar{
+    background-color: rgb(16, 248, 171);
+}
+
+.container{
+    background-image: url(./images/th.jpeg) ;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    border-radius: 10px;
+ } 
